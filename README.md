@@ -28,5 +28,5 @@ Uma Landing Page moderna, leve e 100% responsiva projetada para lojas locais, pr
 
 ## 📂 Como rodar o projeto localmente
 1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/israellimads/business-landing-page.git](https://github.com/israellimads/business-landing-page.git)
+```bash
+git clone https://github.com/israellimads/business-landing-page.git
